@@ -1,12 +1,11 @@
 # App.Streamlit-FastAPI.Text.Detector
+
 OCR Task 중 하나인 Text Detection을 수행할 수 있는 Web Service의 저장소 입니다.
-![example-page](./example-page.png)
+![example-page](./example/example-page.png)
 
-Input | Output 
+Input | Output
 -----|-----
-![example-input](./example.png)|![example-result](./example-result.jpg) 
-
-
+![example-input](./example/example.png)|![example-result](./example/example-result.jpg)
 
 ## Install
 
